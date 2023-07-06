@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 Software Developer.....<br>🤝 I am open to Internship and Software development positions<br>
-
+🔭 Software Developer.....
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mubarak-ibrahim-b7949b21a) 

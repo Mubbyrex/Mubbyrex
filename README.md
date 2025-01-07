@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 **DevOps Engineer** passionate about automating and optimizing workflows.  
+## 🔭 **DevOps Engineer** passionate about automating and optimizing workflows.  
 ⚙️ Skilled in designing CI/CD pipelines, infrastructure as code (IaC), and cloud-native applications.  
 🌟 Always learning and adapting to the evolving DevOps ecosystem.
 
